@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: relay-docs
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.16.0
+# WARNING: Free web service disks are ephemeral.
+# This configuration demonstrates the UI/API, but data resets on a service restart or redeploy.
+# For durable storage, switch to a plan with a persistent disk mounted at /var/data/relay-docs
+# and set DATA_DIR=/var/data/relay-docs in the Render environment.

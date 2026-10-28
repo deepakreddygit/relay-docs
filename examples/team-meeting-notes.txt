@@ -1,0 +1,10 @@
+Team meeting — next steps
+
+Purpose: agree on the smallest useful launch.
+
+Confirm the editor and autosave flow.
+Review invited-user permissions.
+Ask two teammates for quick feedback.
+
+Owner: Alex
+Next check-in: Friday
