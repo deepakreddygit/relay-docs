@@ -1,14 +1,5 @@
 # Relay Docs — Ajaia Full Stack Product Engineer Assignment
 
-## Submission status
-
-**Source and documentation:** Complete and locally tested.  
-**Live deployment:** ⬜ ADD VERIFIED PUBLIC URL.  
-**3–5 minute walkthrough:** ⬜ RECORD VIDEO AND ADD PUBLIC URL.  
-**Google Drive folder:** ⬜ UPLOAD THESE FILES AND SHARE VIEWER ACCESS.
-
-> Do not submit placeholder URLs. Run the full browser checklist in `README.md` on the public deployment first.
-
 ## Included files (exact inventory)
 
 - `README.md` — project overview, test accounts, setup, run, verification, deployment and limitations.
@@ -31,9 +22,9 @@
 
 ## Links to fill before final submission
 
-**Google Drive folder:** `[ADD LINK AFTER UPLOADING]`  
-**Live product:** `[ADD LINK AFTER DEPLOYING]`  
-**Walkthrough video:** `[ADD LINK AFTER RECORDING]`
+**Google Drive folder:** `https://drive.google.com/drive/folders/15yXgBJIKp6C-eg8UsDxjdROw8Nu-XipS?usp=sharing`  
+**Live product:** `https://relay-docs.onrender.com/`  
+**Walkthrough video:** `https://www.loom.com/share/11fcb206d1e642c69bc4618ad394e01b`
 
 ## Reviewer credentials
 
